@@ -8,9 +8,6 @@ title: Smart Monitoring and Automated Controlling System for an Aquarium
 # Smart Monitoring and Automated Controlling System for an Aquarium
 
 ---
-K.A.H.P. Thilakarathna	E/15/362
-S.L.I. Dinuwanthi	E/15/081
-D.V. Sripadi	E/15/345
 
 ## Team
 -  E/15/362, K.A.H.P. Thilakarathna, [e15362@eng.pdn.ac.lk](mailto:e15362@eng.pdn.ac.lk)
