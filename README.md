@@ -10,9 +10,9 @@ title: Smart Monitoring and Automated Controlling System for an Aquarium
 ---
 
 ## Team
--  E/15/362, K.A.H.P. Thilakarathna, [e15362@eng.pdn.ac.lk](mailto:e15362@eng.pdn.ac.lk)
--  E/15/081, S.L.I. Dinuwanthi, [e15081@eng.pdn.ac.lk](mailto:e15081@eng.pdn.ac.lk)
--  E/15/345, D.V. Sripadi, [e15345@eng.pdn.ac.lk](mailto:e15345@eng.pdn.ac.lk)
+-  E/15/362, K.A.H.P. Thilakarathna, [hasinithilakarathna4@gmail.com](mailto:hasinithilakarathna4@gmail.com)
+-  E/15/081, S.L.I. Dinuwanthi, [imalshadinu@gmail.com](mailto:imalshadinu@gmail.com)
+-  E/15/345, D.V. Sripadi, [vidwasripadi@gmail.com](mailto:vidwasripadi@gmail.com)
 
 ## Table of Contents
 1. [Introduction](#introduction)
